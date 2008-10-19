@@ -1,6 +1,9 @@
 This package uses Template Haskell to automatically derive instances
 of the JSON class from the json package on hackage.
 
+This is a prerelease version but may be distributed under the terms of
+the BSD3 license.
+
 Similar projects:
 * Rjson: Uses syb-with-class and its own JSON library.
 * pugs-drift: Uses DrIFT and its own JSON library (serialization only,
